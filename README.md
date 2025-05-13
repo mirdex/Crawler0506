@@ -13,3 +13,4 @@
 #### 課程大綱
 - [1. 資料庫簡介](http://mirdex.github.io/Crawler0506/0.%20MySQL.slides.html)
 - [2. 爬蟲基本概念](http://mirdex.github.io/Crawler0506/1.%20爬蟲基本概念.slides.html)
+- [補充教材 - 字串常搭配使用函數](http://mirdex.github.io/Crawler0506/1-1.%20補充%20-%20字串常搭配使用函數_Q.slides.html)
