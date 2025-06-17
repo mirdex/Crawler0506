@@ -21,3 +21,4 @@
 - [7. HTML走訪](http://mirdex.github.io/Crawler0506/6.%20HTML%20走訪_Q.slides.html)
 - [8. 實戰練習一](http://mirdex.github.io/Crawler0506/7.%20實戰練習一_Q.slides.html)
 - [9. JSON資料擷取](http://mirdex.github.io/Crawler0506/8.JSON資料擷取_Q.slides.html)
+- [10. XML資料擷取](http://mirdex.github.io/Crawler0506/9.%20XML資料擷取_Q.slides.html)
