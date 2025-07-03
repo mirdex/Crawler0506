@@ -26,3 +26,4 @@
 - [12. 實戰練習二](http://mirdex.github.io/Crawler0506/11.%20實戰練習二_Q.slides.html)
 - [13. Data Visualization](http://mirdex.github.io/Crawler0506/1.%20Data%20Visualization%20Introduction.slides.html)
 - [14. Matplotlib基礎](http://mirdex.github.io/Crawler0506/2.%20Matplotlib基礎_Q.slides.html)
+- [15. Matplotlib進階](http://mirdex.github.io/Crawler0506/3.%20Matplotlib進階_Q.slides.html)
