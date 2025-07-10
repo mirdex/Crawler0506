@@ -29,3 +29,4 @@
 - [15. Matplotlib進階](http://mirdex.github.io/Crawler0506/3.%20Matplotlib進階_Q.slides.html)
 - [16. 長條圖與直方圖](http://mirdex.github.io/Crawler0506/4.%20長條圖與直方圖_Q.slides.html)
 - [17. 散佈圖與圓餅圖](http://mirdex.github.io/Crawler0506/5.%20散佈圖與圓餅圖_Q.slides.html)
+- [18. 折線圖與箱型圖](http://mirdex.github.io/Crawler0506/6.%20折線圖與箱型圖_Q.slides.html)
